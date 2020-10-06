@@ -229,7 +229,7 @@ ReactDOM.render(jsxElement, rootElement)
 ```
 
 ```html
-<!-- index.html -->
+<!-- index_01.html -->
 <!DOCTYPE html>
 <html lang="en">
   <head>
